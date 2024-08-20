@@ -11,4 +11,3 @@ def myFunction():
         print(name + " McConnell")
 
 myFunction()
-print()
